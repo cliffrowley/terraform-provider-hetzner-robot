@@ -1,4 +1,4 @@
-module github.com/peters-it/terraform-provider-hetzner-robot
+module github.com/cliffrowley/terraform-provider-hetzner-robot
 
 go 1.17
 
